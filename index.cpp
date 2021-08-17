@@ -54,5 +54,9 @@ if (opr == "+") {
 		cout << "Here's your answer." << endl << num1 << " : " << num2 << " = " << answerDev << endl;
 		return 0;
 	
+	} else {
+		cout << "That is not an supported operator";
+		return 0;
+
 	}
 }

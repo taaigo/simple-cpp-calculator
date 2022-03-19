@@ -66,4 +66,5 @@ int main()
             cout << "That is not an supported operator" << endl;
         }
     }
+    system("PAUSE");
 }
